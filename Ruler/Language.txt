@@ -1,0 +1,8 @@
+[Ruler form]
+IdRulerimShActive="Убрать фиксацию"
+IdRulerimShNotActive="Зафиксировать"
+IdRulerimSizeH="Высота в полный экран"
+IdRulerimSizeW="Ширина в полный экран"
+IdRulerimSettings="Настройки"
+IdRulerimRotate="Повернуть"
+IdRulerimClose="Закрыть"
